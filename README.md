@@ -1,7 +1,11 @@
-# Trivia Questions API
+## Live Site URL
 
-https://opentdb.com/api.php?amount=10&category=${9 to 32}&difficulty=${ easy or medium or hard }&type=multiple
-For more about API Doc: Go to [https://opentdb.com/api_config.php](Trivia API Documentation) & [https://opentdb.com/api_category.php](List of categories and ids in the database.)
+Go to [https://react-trivia-quizz.netlify.app](https://react-trivia-quizz.netlify.app/)
+
+## Trivia Questions API
+
+Used API: `https://opentdb.com/api.php?amount=10&category=${9 to 32}&difficulty=${ easy or medium or hard }&type=multiple`.
+For more about API Doc: Go to [Trivia API Documentation](https://opentdb.com/api_config.php) & [List of categories and ids in the database](https://opentdb.com/api_category.php).
 
 # Getting Started with Create React App
 
